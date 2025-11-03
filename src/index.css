@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+    background-color: black;
+}
+
+.height-line {
+    @apply bg-[#232323] h-2.5
+}
