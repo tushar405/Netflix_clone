@@ -18,6 +18,8 @@
     "react-router-dom": "^7.9.5"
   },
   "devDependencies": {
+    "@tailwindcss/vite": "^4.1.16",
+    "autoprefixer": "^10.4.21",
     "vite": "^7.1.12"
   }
 }
